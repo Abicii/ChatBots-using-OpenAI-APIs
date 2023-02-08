@@ -13,7 +13,7 @@ import os
 
 
 # Define the API key for the OpenAI API
-openai.api_key = "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"
+openai.api_key = "Your OpenAI API key"
 
 
 
