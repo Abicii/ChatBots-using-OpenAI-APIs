@@ -15,7 +15,7 @@ import subprocess
 
 
 # Define the API key for the OpenAI API
-openai.api_key = "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"
+openai.api_key = "Your Open AI KEY"
 
 
 
