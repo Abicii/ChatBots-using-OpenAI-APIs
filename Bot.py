@@ -10,7 +10,7 @@ import os
 
 
 
-openai.api_key = "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"
+openai.api_key = "Your OpenAI API Key"
 
 home = customtkinter.CTk()
 home.title("Create Bot")
