@@ -1,6 +1,0 @@
-1. support.pdf 
-2. Download image function
-3. midterm ppt
-4. SRS
-5. End term ppt
-6. Final report

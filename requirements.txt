@@ -1,0 +1,11 @@
+import tkinter as tk
+from tkinter import ttk
+import openai
+import urllib.request
+from PIL import Image as Ig
+from PIL import ImageTk
+from tkinter import *
+import customtkinter
+import os
+import sys
+import subprocess
