@@ -10,6 +10,6 @@ pip install requirements.txt
 Run - project_V3.0.py 
 Note : Before executing the above file plug in openAI API key in the variable at line 13 of project_V3.0.py (openai.api_key) 
 get the API from 
-https://openai.com/blog/openai-api 
-sign up -> accounts -> secret api key 
+https://openai.com/blog/openai-api .
+sign up -> accounts -> secret api key .
 For security reasons open AI does not allow sharing of API keys on public platforms .
