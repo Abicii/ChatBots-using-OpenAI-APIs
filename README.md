@@ -18,3 +18,7 @@ For security reasons open AI does not allow sharing of API keys on public platfo
 
 
 Also use the "<?>" button to see the user guide 
+REFER to REPORT.pdf 
+
+
+
