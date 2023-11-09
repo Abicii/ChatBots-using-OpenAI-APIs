@@ -17,7 +17,8 @@ sign up -> accounts -> secret api key .
 For security reasons open AI does not allow sharing of API keys on public platforms .
 
 
-Also use the "<?>" button to see the user guide 
+Also use the "<?>" button to see the user guide.
+<br>
 REFER to REPORT.pdf 
 
 
